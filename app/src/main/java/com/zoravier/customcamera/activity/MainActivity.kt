@@ -1,4 +1,4 @@
-package com.zoravier.customcamera
+package com.zoravier.customcamera.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
