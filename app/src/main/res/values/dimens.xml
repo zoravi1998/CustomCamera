@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="title_margin">100dp</dimen>
+    <dimen name="text_view_left_margin">50dp</dimen>
+    <dimen name="field_top_margin">200dp</dimen>
+</resources>
